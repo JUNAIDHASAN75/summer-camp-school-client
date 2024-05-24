@@ -1,0 +1,7 @@
+.bgimg{
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.528), rgba(0, 0, 0, 0.779)),url('../../assets/images/login.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
